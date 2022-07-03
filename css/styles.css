@@ -2,6 +2,10 @@ body{
   background-color: brown;
 }
 
+h1{
+  color: blue;
+}
+
 hr{
   border-style: none;
   border-top-style: dotted;
